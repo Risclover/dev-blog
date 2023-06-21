@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdev_blog=self.webpackChunkdev_blog||[]).push([[1790],{7352:e=>{e.exports=JSON.parse('{"label":"About the Author","permalink":"/dev-blog/blog/tags/about-the-author","allTagsPath":"/dev-blog/blog/tags","count":2}')}}]);
