@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdev_blog=self.webpackChunkdev_blog||[]).push([[3696],{8262:e=>{e.exports=JSON.parse('{"label":"Demo","permalink":"/docs/tags/demo","allTagsPath":"/docs/tags","count":1,"items":[{"id":"live-chat-feature-clone/frontend","title":"Frontend","description":"","permalink":"/docs/live-chat-feature-clone/frontend"}]}')}}]);
