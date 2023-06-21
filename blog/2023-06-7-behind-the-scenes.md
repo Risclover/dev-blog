@@ -6,7 +6,7 @@ authors:
   title: Software Engineer
   url: https://github.com/Risclover
   image_url: https://avatars.githubusercontent.com/u/85785443?v=4
-tags: [Software Engineering]
+tags: [Software Engineering, About the Author]
 ---
 
 # A Day in the Life of an Unemployed Software Engineer: Navigating Challenges and Pursuing Growth

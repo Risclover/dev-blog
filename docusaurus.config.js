@@ -77,16 +77,15 @@ const config = {
           src: "https://avatars.githubusercontent.com/u/85785443?v=4",
         },
         items: [
+          { to: "/blog", label: "Blog", position: "right" },
           {
-            type: "docSidebar",
-            sidebarId: "tutorialSidebar",
-            position: "left",
-            label: "Tutorial",
-          },
-          { to: "/blog", label: "Blog", position: "left" },
-          {
-            href: "https://github.com/facebook/docusaurus",
+            href: "https://github.com/Risclover",
             label: "GitHub",
+            position: "right",
+          },
+          {
+            href: "https://risclover.github.io",
+            label: "Portfolio",
             position: "right",
           },
         ],
